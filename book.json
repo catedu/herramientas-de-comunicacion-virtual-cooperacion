@@ -1,18 +1,1 @@
-{
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
-    "language": "es",
-    "variables": {
-        "title": "Herramientas de comunicación virtual. Cooperación online",
-        "author": "Varios autores",
-        "collaborators": [
-            { "name": "José Cariñena Burbano", "edited": "Selección de contenidos, sore cooperación, Trello y appear.in" },
-            { "name": "Rosa Garza Torrijo ,Luz Mª Cuartielles Celma y Jesús López de Leyva", "edited": "Google Drive" },
-            { "name": "Javier Quintana Peiró.", "edited": "Twitter" }
-        ]
-    },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        }
-    }
-}
+{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Herramientas de comunicación virtual. Cooperación online", "author": "Varios autores", "collaborators": [{"name": "José Cariñena Burbano", "edited": "Selección de contenidos, sore cooperación, Trello y appear.in"}, {"name": "Rosa Garza Torrijo ,Luz Mª Cuartielles Celma y Jesús López de Leyva", "edited": "Google Drive"}, {"name": "Javier Quintana Peiró.", "edited": "Twitter"}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "edit-link": {"base": "https://github.com/catedu/herramientas-de-comunicacion-virtual-cooperacion/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "herramientas-de-comunicacion-virtual-cooperacion"}}}
